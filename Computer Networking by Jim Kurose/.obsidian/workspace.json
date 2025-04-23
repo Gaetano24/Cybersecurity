@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "85d52415911a88af",
+    "type": "split",
+    "children": [
+      {
+        "id": "077041e08f5979f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c860d313aba50c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30850d16fb017d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfe20e2005f2a926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d94feb00e2b0856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "b207d1dfb93b4130",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "71b86e636324fed6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "right": {
+    "id": "89fc296909a17723",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b86306b98abb8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28fe5d6f4f988947",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benvenuto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Benvenuto"
+            }
+          },
+          {
+            "id": "33ce56e211aa9d15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benvenuto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Benvenuto"
+            }
+          },
+          {
+            "id": "dbaebc476170f2e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "51ac5cccd6035f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benvenuto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Benvenuto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "e7c860d313aba50c",
+  "lastOpenFiles": [
+    "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
+    "2. The Application Layer/DNS (Domain Name System).md",
+    "Immagini/Pasted image 20250423145003.png",
+    "Immagini/Pasted image 20250423144338.png",
+    "Immagini/Pasted image 20250423141911.png",
+    "Immagini/Pasted image 20250423141510.png",
+    "Immagini/Pasted image 20250423140941.png",
+    "2. The Application Layer/Web e HTTP pt.1.md",
+    "2. The Application Layer/I principi delle applicazioni di rete.md",
+    "2. The Application Layer/Web e HTTP pt.2.md",
+    "2. The Application Layer/E-mail.md",
+    "Immagini/Pasted image 20250420162605.png",
+    "Immagini/Pasted image 20250420162454.png",
+    "Immagini/Pasted image 20250420162400.png",
+    "Immagini/Pasted image 20250420162305.png",
+    "Immagini/Pasted image 20250420162104.png",
+    "2. The Application Layer/Email.md",
+    "2. The Application Layer",
+    "1. Computer Networks and the Internet/Stack di Rete e Incapsulazione.md",
+    "1. Computer Networks and the Internet/Concetti di Network Security.md",
+    "1. Computer Networks and the Internet/Performance di rete.md",
+    "1. Computer Networks and the Internet/Il core della rete.md",
+    "1. Computer Networks and the Internet/Ai confini della rete.md",
+    "1. Computer Networks and the Internet/La rete Internet.md",
+    "Immagini",
+    "Benvenuto.md",
+    "1. Computer Networks and the Internet"
+  ]
+}
