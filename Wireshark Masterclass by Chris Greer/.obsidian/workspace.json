@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "47170276eb007e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85a7c7f1dfc3e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2300d2902a4dd22",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6584104d4b271314",
+    "type": "split",
+    "children": [
+      {
+        "id": "7742b5b627b4a3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2bcb4853cce0600",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "c1fbafbe85b32036",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "7d8dc2b263eb78a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "bdc32b14fd343ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de6b26e8dcf5755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a9e7ed9475a372",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "b3bd8714d503df8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "184c356edab3001c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "fdd27acd3fa7e63c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "e2300d2902a4dd22",
+  "lastOpenFiles": [
+    "Lezione 5 - Filtrare il traffico.md",
+    "Lezione 4 - Dove effettuare la cattura.md",
+    "Lezione 3 - Catturare il traffico con dumpcap.md",
+    "Lezione 2 - Configurare le interfacce di cattura.md",
+    "Lezione 1 - Configurare Wireshark.md",
+    "Lezione 10 - Geolocalizzare gli indirizzi IP.md",
+    "Lezione 9 - Estrarre file dai PCAP.md",
+    "Lezione 8 - Leggere file di cattura dalle 'Statistics'.md",
+    "Lezione 7 - Usare la colonna 'Time'.md",
+    "Lezione 6 - Risoluzione dei nomi.md",
+    "Immagini/Pasted image 20250402172213.png",
+    "Immagini/Pasted image 20250408195645.png",
+    "Immagini/Pasted image 20250408194939.png",
+    "Immagini/Pasted image 20250408195722.png",
+    "Immagini/Pasted image 20250408190939.png",
+    "Immagini/Pasted image 20250408190848.png",
+    "Screenshot_2025-04-02_17_20_18.png",
+    "Immagini/Screenshot 2025-04-08 141743.png",
+    "Immagini/Pasted image 20250408141339.png",
+    "Immagini/Pasted image 20250408141757.png",
+    "Senza nome",
+    "Immagini",
+    "Benvenuto.md"
+  ]
+}
