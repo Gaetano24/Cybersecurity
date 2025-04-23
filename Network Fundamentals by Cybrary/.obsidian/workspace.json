@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "aeb815269b7390c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08a1e25d82efba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a9ce012f3bc5af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5eb4aadaf347830",
+    "type": "split",
+    "children": [
+      {
+        "id": "a918f98761a282bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4cefce18d31ef0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "958da34a2128e183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "9053d9a1e12dc4b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ad6b9efc24f4fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0fc461b3d492d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d11271b94dbf93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "eaddaa2491fc362f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "4f593b9e5d09d323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "4f34155c3709a403",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "fa4cefce18d31ef0",
+  "lastOpenFiles": [
+    "VPN/Concetti fondamentali.md",
+    "VPN/IPSEC VPN Foundamentals.md",
+    "Nozioni di base sul troubleshooting di rete/Cybrary Lab.md",
+    "Nozioni di base sul troubleshooting di rete/Concetti fondamentali.md",
+    "Nozioni di base sulla rete/Porte e Protocolli comuni.md",
+    "Nozioni di base sulla rete/Networking and Network Models.md",
+    "Nozioni di base sulla rete/Minacce e attacchi alla rete.md",
+    "Modelli di riferimento di rete/Concetti fondamentali.md",
+    "Nmap/Concetti fondamentali.md",
+    "Nozioni di base sui dispositivi di rete/Concetti fondamentali.md",
+    "Nozioni di base sull'indirizzamento IP/Concetti fondamentali.md",
+    "Nozioni di base sull'indirizzamento IP/Laboratorio virtuale.md",
+    "Nozioni di base sulla rete/Network Security Infrastructure.md",
+    "Wireshark/Concetti fondamentali.md",
+    "Senza nome",
+    "Wireshark/Cybrary Lab.md",
+    "Nozioni di base sulla rete/Termini chiave.md",
+    "Tools/Wireshark/Concetti fondamentali.md",
+    "Tools/Wireshark/Cybrary Lab.md",
+    "Tools/Nmap/Concetti fondamentali.md",
+    "Nozioni di base sul troubleshooting di rete",
+    "Immagini/Pasted image 20250330195959.png",
+    "Immagini/Pasted image 20250330193756.png",
+    "Immagini/Pasted image 20250330193651.png",
+    "Immagini/Pasted image 20250330193557.png",
+    "Immagini/Pasted image 20250330183722.png",
+    "Immagini/Pasted image 20250330192058.png",
+    "Pasted image 20250330193400.png",
+    "VPN",
+    "Immagini/Pasted image 20250329194407.png",
+    "Immagini/Pasted image 20250329182620.png",
+    "Immagini/Pasted image 20250329185007.png",
+    "VPN",
+    "Tools",
+    "Tools/Nmap",
+    "Tools/Wireshark",
+    "Nozioni di base sui dispositivi di rete",
+    "Nozioni di base sull'indirizzamento IP",
+    "Modelli di riferimento di rete",
+    "Senza nome/Benvenuto.md"
+  ]
+}
