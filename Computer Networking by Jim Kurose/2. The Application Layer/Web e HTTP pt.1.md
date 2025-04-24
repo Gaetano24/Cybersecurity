@@ -110,6 +110,87 @@ Content-Length: 456
 
 ---
 
+## 🔍 **Metodi HTTP principali**
+
+### 1. **GET**
+
+- **Funzione**: Recupera dati da una risorsa
+    
+- **Caratteristiche**: È un metodo sicuro e idempotente, utilizzato per ottenere informazioni senza modificarle
+    
+- **Esempi d’uso**: Visualizzare un elenco di prodotti, recuperare il profilo di un utente
+
+### 2. **POST**
+
+- **Funzione**: Invia dati al server per creare una nuova risorsa
+    
+- **Caratteristiche**: Non è idempotente; ogni richiesta può creare una nuova risorsa
+    
+- **Esempi d’uso**: Registrazione di un nuovo utente, invio di un modulo di contatto
+
+### 3. **PUT**
+
+- **Funzione**: Aggiorna o crea una risorsa specifica
+    
+- **Caratteristiche**: È idempotente; ripetere la stessa richiesta produce lo stesso risultato
+    
+- **Esempi d’uso**: Aggiornare le informazioni di un profilo utente
+
+### 4. **PATCH**
+
+- **Funzione**: Applica modifiche parziali a una risorsa
+    
+- **Caratteristiche**: Non è necessariamente idempotente; modifica solo i campi specificati
+    
+- **Esempi d’uso**: Aggiornare l'indirizzo email di un utente
+
+### 5. **DELETE**
+
+- **Funzione**: Elimina una risorsa
+    
+- **Caratteristiche**: È idempotente; eliminare una risorsa più volte ha lo stesso effetto
+    
+- **Esempi d’uso**: Cancellare un account utente
+
+### 6. **HEAD**
+
+- **Funzione**: Recupera solo le intestazioni di una risorsa, senza il corpo
+    
+- **Caratteristiche**: È utile per verificare l'esistenza o lo stato di una risorsa senza scaricarla
+    
+- **Esempi d’uso**: Controllare se un file è stato modificato
+
+### 7. **OPTIONS**
+
+- **Funzione**: Descrive le opzioni di comunicazione disponibili per una risorsa
+    
+- **Caratteristiche**: Spesso utilizzato per determinare i metodi supportati da una risorsa, utile nelle richieste CORS
+    
+- **Esempi d’uso**: Verificare quali metodi HTTP sono supportati da un endpoint API
+
+
+### Confronto tra i metodi
+
+|Metodo|Sicuro|Idempotente|Corpo richiesta|Uso principale|
+|---|---|---|---|---|
+|GET|✅|✅|❌|Recuperare dati|
+|POST|❌|❌|✅|Creare nuove risorse|
+|PUT|❌|✅|✅|Aggiornare/creare risorse|
+|PATCH|❌|❌|✅|Modifiche parziali|
+|DELETE|❌|✅|❌|Eliminare risorse|
+|HEAD|✅|✅|❌|Ottenere intestazioni|
+|OPTIONS|✅|✅|❌|Scoprire opzioni disponibili|
+
+### Note aggiuntive
+
+- **Sicuro**: Il metodo non altera lo stato della risorsa.
+    
+- **Idempotente**: Ripetere la stessa richiesta produce lo stesso risultato.
+    
+- **Corpo richiesta**: Indica se il metodo generalmente include un corpo nella richiesta.
+
+---
+
 ## 🧾 **Status Code (Codici di Stato)**
 
 |Codice|Categoria|Significato|
