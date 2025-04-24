@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "287177f88defc5b7",
+        "id": "c71cd80fc3d78694",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1d38bac0b7e657",
+            "id": "4014995e763108c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -164,25 +164,27 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "2d94feb00e2b0856",
+  "active": "4014995e763108c1",
   "lastOpenFiles": [
+    "2. The Application Layer/3rd Party Cookie , Web Tracking e GDPR.md",
+    "Immagini/Pasted image 20250424131811.png",
+    "Immagini/Pasted image 20250424131024.png",
+    "Immagini/Pasted image 20250424130845.png",
+    "Immagini/Pasted image 20250424130743.png",
+    "Immagini/Pasted image 20250424130646.png",
+    "2. The Application Layer/Socket Programming.md",
+    "Pasted image 20250424123443.png",
+    "Immagini/Pasted image 20250424123455.png",
+    "Immagini/Pasted image 20250424123356.png",
+    "Immagini/Pasted image 20250424123533.png",
     "2. The Application Layer/Web e HTTP pt.1.md",
     "2. The Application Layer/Web e HTTP pt.2.md",
     "2. The Application Layer/Programmazione Socket.md",
     "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
     "2. The Application Layer/DNS (Domain Name System).md",
     "Immagini/Pasted image 20250423145003.png",
-    "Immagini/Pasted image 20250423144338.png",
-    "Immagini/Pasted image 20250423141911.png",
-    "Immagini/Pasted image 20250423141510.png",
-    "Immagini/Pasted image 20250423140941.png",
     "2. The Application Layer/I principi delle applicazioni di rete.md",
     "2. The Application Layer/E-mail.md",
-    "Immagini/Pasted image 20250420162605.png",
-    "Immagini/Pasted image 20250420162454.png",
-    "Immagini/Pasted image 20250420162400.png",
-    "Immagini/Pasted image 20250420162305.png",
-    "Immagini/Pasted image 20250420162104.png",
     "2. The Application Layer/Email.md",
     "2. The Application Layer",
     "1. Computer Networks and the Internet/Stack di Rete e Incapsulazione.md",
