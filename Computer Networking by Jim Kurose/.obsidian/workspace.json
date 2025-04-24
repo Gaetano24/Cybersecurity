@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c71cd80fc3d78694",
+        "id": "2d205edf2d1033c8",
         "type": "tabs",
         "children": [
           {
-            "id": "4014995e763108c1",
+            "id": "1a75d2e03c55594c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "89fc296909a17723",
@@ -164,8 +165,14 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "4014995e763108c1",
+  "active": "1a75d2e03c55594c",
   "lastOpenFiles": [
+    "Immagini/Pasted image 20250424135224.png",
+    "Immagini/Pasted image 20250415164501.png",
+    "Immagini/Pasted image 20250415164430.png",
+    "Immagini/Pasted image 20250424134808.png",
+    "Immagini/Pasted image 20250424134726.png",
+    "2. The Application Layer/Peer to Peer (P2P) file distribution.md",
     "2. The Application Layer/3rd Party Cookie , Web Tracking e GDPR.md",
     "Immagini/Pasted image 20250424131811.png",
     "Immagini/Pasted image 20250424131024.png",
@@ -174,15 +181,11 @@
     "Immagini/Pasted image 20250424130646.png",
     "2. The Application Layer/Socket Programming.md",
     "Pasted image 20250424123443.png",
-    "Immagini/Pasted image 20250424123455.png",
-    "Immagini/Pasted image 20250424123356.png",
-    "Immagini/Pasted image 20250424123533.png",
     "2. The Application Layer/Web e HTTP pt.1.md",
     "2. The Application Layer/Web e HTTP pt.2.md",
     "2. The Application Layer/Programmazione Socket.md",
     "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
     "2. The Application Layer/DNS (Domain Name System).md",
-    "Immagini/Pasted image 20250423145003.png",
     "2. The Application Layer/I principi delle applicazioni di rete.md",
     "2. The Application Layer/E-mail.md",
     "2. The Application Layer/Email.md",
