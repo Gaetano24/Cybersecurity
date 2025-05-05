@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d205edf2d1033c8",
+        "id": "122129f57f8c0eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a75d2e03c55594c",
+            "id": "104277dd2619a72e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -165,29 +165,31 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "1a75d2e03c55594c",
+  "active": "104277dd2619a72e",
   "lastOpenFiles": [
+    "2. The Application Layer/E-mail.md",
+    "3. The Transport Layer/Multiplexing e Demultiplexing.md",
+    "Immagini/Pasted image 20250505150143.png",
+    "Immagini/Pasted image 20250505145640.png",
+    "3. The Transport Layer/Introduzione al Livello di Trasporto.md",
+    "Immagini/Pasted image 20250505145121.png",
+    "3. The Transport Layer",
+    "2. The Application Layer/Peer to Peer (P2P) file distribution.md",
+    "2. The Application Layer/3rd Party Cookie , Web Tracking e GDPR.md",
+    "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
     "Immagini/Pasted image 20250424135224.png",
     "Immagini/Pasted image 20250415164501.png",
     "Immagini/Pasted image 20250415164430.png",
     "Immagini/Pasted image 20250424134808.png",
     "Immagini/Pasted image 20250424134726.png",
-    "2. The Application Layer/Peer to Peer (P2P) file distribution.md",
-    "2. The Application Layer/3rd Party Cookie , Web Tracking e GDPR.md",
     "Immagini/Pasted image 20250424131811.png",
     "Immagini/Pasted image 20250424131024.png",
-    "Immagini/Pasted image 20250424130845.png",
-    "Immagini/Pasted image 20250424130743.png",
-    "Immagini/Pasted image 20250424130646.png",
     "2. The Application Layer/Socket Programming.md",
-    "Pasted image 20250424123443.png",
     "2. The Application Layer/Web e HTTP pt.1.md",
     "2. The Application Layer/Web e HTTP pt.2.md",
     "2. The Application Layer/Programmazione Socket.md",
-    "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
     "2. The Application Layer/DNS (Domain Name System).md",
     "2. The Application Layer/I principi delle applicazioni di rete.md",
-    "2. The Application Layer/E-mail.md",
     "2. The Application Layer/Email.md",
     "2. The Application Layer",
     "1. Computer Networks and the Internet/Stack di Rete e Incapsulazione.md",
