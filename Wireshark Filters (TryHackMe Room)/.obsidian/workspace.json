@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "c8393db872af3921",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2df578db05fa4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40e90ae3e4d74d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b3d6b0f0f65de99",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ce8be1169331fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e35e3ed34a26ce78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "ad0f711561597ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "a3102deceb41135e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4c482254ff324a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9153db145cf056d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9d3f9b9ecfe6aa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "c28fc4b3c734953a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "6d99c85c0798e569",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "c185f54a94be257b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c40e90ae3e4d74d7",
+  "lastOpenFiles": [
+    "Filtri Wireshark/Filtraggio per Scansioni.md",
+    "Filtri Wireshark/Filtraggio per username e password.md",
+    "Filtri Wireshark/Operatori speciali.md",
+    "Filtri Wireshark",
+    "Immagini/Pasted image 20250505142711.png",
+    "Filtri Wireshark/Filtri DNS.md",
+    "Immagini/Pasted image 20250505141756.png",
+    "Immagini/Pasted image 20250505141731.png",
+    "Filtri Wireshark/Filtri TCP.md",
+    "Filtri Wireshark/Filtri IP.md",
+    "Immagini/Pasted image 20250505141142.png",
+    "Filtri Wireshark/Filtri di protocollo.md",
+    "Immagini/Pasted image 20250503131448.png",
+    "Immagini",
+    "Immagini/Pasted image 20250503130937.png",
+    "Benvenuto.md"
+  ]
+}
