@@ -1,3 +1,4 @@
+### **Filtrare per indirizzi IP**
 
 I **filtri dell'indirizzo IP**, o dell'intervallo di indirizzi, sono due dei filtri più comuni che utilizzerai. 
 
@@ -17,7 +18,7 @@ In Wireshark, possiamo filtrare per:
 
 ---
 
-#### **Tipi di filtri IP più comuni**
+### **Tipi di filtri IP più comuni**
 
 1. **Indirizzo IP specifico**:
     
@@ -31,7 +32,7 @@ In Wireshark, possiamo filtrare per:
 
 ---
 
-#### **Filtri di conversazione (tra 2 IP)**
+### **Filtri di conversazione (tra 2 IP)**
 
 ﻿Un altro tipo comune di filtro IP è un filtro di conversazione in cui entrambi gli endpoint sono specificati nel filtro. Questo è quando entrambi gli endpoint sono specificati nel filtro.    
 
@@ -45,7 +46,7 @@ In Wireshark, possiamo filtrare per:
 Questo creerà e applicherà automaticamente un filtro per i due endpoint nel pacchetto selezionato. Il filtro utilizzerà `ip.addr` per visualizzare il traffico in entrambe le direzioni per ciascun endpoint e l'operatore `and` per garantire che entrambe le condizioni del filtro siano soddisfatte (entrambi gli IP sono nello stesso pacchetto).
 
 ---
-#### **Operatori logici**
+### **Operatori logici**
 
 | Italiano | Simbolo | Inglese |
 | -------- | ------- | ------- |

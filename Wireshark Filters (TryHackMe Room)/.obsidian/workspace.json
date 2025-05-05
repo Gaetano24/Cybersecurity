@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e2df578db05fa4f",
+        "id": "027b26b991e20dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "c40e90ae3e4d74d7",
+            "id": "41b9255e35338c81",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -161,20 +161,20 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "c40e90ae3e4d74d7",
+  "active": "e35e3ed34a26ce78",
   "lastOpenFiles": [
     "Filtri Wireshark/Filtraggio per Scansioni.md",
-    "Filtri Wireshark/Filtraggio per username e password.md",
     "Filtri Wireshark/Operatori speciali.md",
-    "Filtri Wireshark",
-    "Immagini/Pasted image 20250505142711.png",
     "Filtri Wireshark/Filtri DNS.md",
-    "Immagini/Pasted image 20250505141756.png",
-    "Immagini/Pasted image 20250505141731.png",
     "Filtri Wireshark/Filtri TCP.md",
     "Filtri Wireshark/Filtri IP.md",
-    "Immagini/Pasted image 20250505141142.png",
     "Filtri Wireshark/Filtri di protocollo.md",
+    "Filtri Wireshark/Filtraggio per username e password.md",
+    "Filtri Wireshark",
+    "Immagini/Pasted image 20250505142711.png",
+    "Immagini/Pasted image 20250505141756.png",
+    "Immagini/Pasted image 20250505141731.png",
+    "Immagini/Pasted image 20250505141142.png",
     "Immagini/Pasted image 20250503131448.png",
     "Immagini",
     "Immagini/Pasted image 20250503130937.png",
