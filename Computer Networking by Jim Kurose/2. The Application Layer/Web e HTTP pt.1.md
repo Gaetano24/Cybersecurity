@@ -50,7 +50,7 @@ Una **pagina web** non è solo un file HTML:
 
 ---
 
-### ⚡ HTTP **Persistente** (detto anche "keep-alive")
+### ⚡ HTTP Persistente (detto anche "keep-alive")
 
 #### 🔍 Cos’è
 

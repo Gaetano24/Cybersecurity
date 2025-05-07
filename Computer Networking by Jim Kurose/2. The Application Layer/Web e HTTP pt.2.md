@@ -48,47 +48,63 @@ Se **l'oggetto è stato aggiornato**:
 
 ## 🌐 **Versioni HTTP: 1.0 vs 1.1 vs 2 vs 3**
 
-|Caratteristica|**HTTP/1.0**|**HTTP/1.1**|**HTTP/2**|**HTTP/3**|
-|---|---|---|---|---|
-|Anno introduzione|1996|1997|2015|2022|
-|Connessione|Non persistente|Persistente di default|Multiplexing su 1 conn.|Multiplexing su **QUIC** (UDP)|
-|Pipeline|❌|✅ ma con limiti|❌ (sostituito da mux)|✅ migliorato|
-|Compress. header|❌|❌|✅ (HPACK)|✅ (QPACK)|
-|Protocollo di trasporto|TCP|TCP|TCP|**UDP con QUIC**|
-|Performance|🐢|🐢|⚡ molto meglio|⚡⚡ ancora più veloce|
+### **HTTP/1.0**
+
+- **Zero multiplexing**: una singola richiesta per connessione.
+- Il client apre una connessione TCP, invia la richiesta, aspetta la risposta, chiude.
+- Nessuna possibilità di parallellismo.
+
+ Conseguenze:
+
+- Altissima latenza per siti con molte risorse.
+- Overhead di apertura/chiusura TCP per ogni risorsa.
 
 ---
 
-### Schema HTTP/2
+### **HTTP/1.1**
+
+- **Connessioni persistenti** (`Connection: keep-alive`) → una connessione può servire più richieste.
+- **Pipelining**: permette di inviare più richieste **in sequenza**, **senza aspettare la risposta**.
+
+
+Problemi:
+
+- **Head-of-line blocking**: se una risposta è lenta, blocca tutte le successive.
+- Molti server e proxy intermedi **non gestivano bene** il pipelining.    
+- Per simulare il parallelismo, i browser aprivano **più connessioni TCP (di solito 6)** per dominio → spreco di risorse.
+
+---
+
+### **HTTP/2**
+
+- **Multiplexing reale**: una sola connessione TCP per tutte le richieste.    
+- Le richieste e risposte sono suddivise in **frame binari**, ciascuno con un **Stream ID**.
+- I frame di stream diversi possono essere **intercalati** nel flusso di byte TCP.
+
+
+**Gestione avanzata**:
+
+- **Priorità tra stream**: ogni stream può indicare priorità o dipendenze.    
+- Compressione header (HPACK) → meno overhead.
+
+
+**Limite tecnico:**
+
+- Tutto viaggia su **un’unica connessione TCP**.    
+- Se un pacchetto viene perso, **TCP blocca tutto finché non viene ritrasmesso**.
+- → **Head-of-line blocking a livello trasporto**, anche se HTTP è multiplexato.
+
 
 ![[Pasted image 20250420155646.png]]
 
 ---
 
-### 🧩 Note chiave
+### **HTTP/3**
 
-- **HTTP/1.0**:
-    
-    - Non supporta connessioni persistenti
-    - Ogni oggetto richiede una nuova connessione
-    
-- **HTTP/1.1**:
-    
-    - Connessione persistente (`keep-alive`)
-    - Aggiunge caching, pipelining (ma non sempre efficiente)
-    - Introduce `Host:` header (multi-sito su stesso IP)
-    
-- **HTTP/2**:
-    
-    - Una sola connessione TCP con **multiplexing** (più richieste contemporanee)
-    - Compressione header (HPACK)
-    - Più efficiente e veloce
-    
-- **HTTP/3**:
-    
-    - Usa **UDP** + **QUIC** invece di TCP
-    - Migliora la **latenza e affidabilità** su connessioni instabili
-    - Multiplexing senza blocchi in caso di perdita pacchetti
-    
+- Multiplexing **a livello nativo del trasporto**, grazie a **QUIC**.
+- Ogni richiesta HTTP viaggia su un **flusso indipendente** all’interno della stessa connessione QUIC.
+
+
+![[Pasted image 20250508012528.png]]
 
 ---

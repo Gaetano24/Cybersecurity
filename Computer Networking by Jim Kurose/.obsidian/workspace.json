@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "122129f57f8c0eb3",
+        "id": "3ceb573d9e9cec4c",
         "type": "tabs",
         "children": [
           {
-            "id": "104277dd2619a72e",
+            "id": "c9a4dd8cd25b51a3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "89fc296909a17723",
@@ -165,28 +164,34 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "104277dd2619a72e",
+  "active": "c9a4dd8cd25b51a3",
   "lastOpenFiles": [
-    "2. The Application Layer/E-mail.md",
+    "2. The Application Layer/Web e HTTP pt.2.md",
+    "Immagini/Pasted image 20250508012528.png",
+    "2. The Application Layer/Web e HTTP pt.1.md",
+    "3. The Transport Layer/QUIC (Quick UDP Internet Connections).md",
+    "3. The Transport Layer/UDP (User Datagram Protocol).md",
+    "3. The Transport Layer/Principi del trasferimento affidabile dei dati.md",
+    "3. The Transport Layer/TCP (Transport Control Protocol).md",
+    "3. The Transport Layer/Controllo della Congestione.md",
+    "Immagini/Pasted image 20250507233734.png",
+    "Immagini/Pasted image 20250507233656.png",
+    "Immagini/Pasted image 20250507233248.png",
+    "Immagini/Pasted image 20250507223031.png",
+    "Immagini/Pasted image 20250507222757.png",
+    "Immagini/Pasted image 20250507222145.png",
+    "Immagini/Pasted image 20250507222111.png",
+    "Immagini/Pasted image 20250507220802.png",
+    "Immagini/Pasted image 20250507220624.png",
     "3. The Transport Layer/Multiplexing e Demultiplexing.md",
-    "Immagini/Pasted image 20250505150143.png",
-    "Immagini/Pasted image 20250505145640.png",
     "3. The Transport Layer/Introduzione al Livello di Trasporto.md",
-    "Immagini/Pasted image 20250505145121.png",
+    "ciao.md",
+    "2. The Application Layer/E-mail.md",
     "3. The Transport Layer",
     "2. The Application Layer/Peer to Peer (P2P) file distribution.md",
     "2. The Application Layer/3rd Party Cookie , Web Tracking e GDPR.md",
     "2. The Application Layer/Video Streaming e Content Distribution Networks.md",
-    "Immagini/Pasted image 20250424135224.png",
-    "Immagini/Pasted image 20250415164501.png",
-    "Immagini/Pasted image 20250415164430.png",
-    "Immagini/Pasted image 20250424134808.png",
-    "Immagini/Pasted image 20250424134726.png",
-    "Immagini/Pasted image 20250424131811.png",
-    "Immagini/Pasted image 20250424131024.png",
     "2. The Application Layer/Socket Programming.md",
-    "2. The Application Layer/Web e HTTP pt.1.md",
-    "2. The Application Layer/Web e HTTP pt.2.md",
     "2. The Application Layer/Programmazione Socket.md",
     "2. The Application Layer/DNS (Domain Name System).md",
     "2. The Application Layer/I principi delle applicazioni di rete.md",
@@ -199,7 +204,6 @@
     "1. Computer Networks and the Internet/Ai confini della rete.md",
     "1. Computer Networks and the Internet/La rete Internet.md",
     "Immagini",
-    "Benvenuto.md",
     "1. Computer Networks and the Internet"
   ]
 }
