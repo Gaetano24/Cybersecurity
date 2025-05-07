@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ceb573d9e9cec4c",
+        "id": "0d6376a895ce1517",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a4dd8cd25b51a3",
+            "id": "d8e2c86a1cbe409e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,16 +164,16 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "c9a4dd8cd25b51a3",
+  "active": "d8e2c86a1cbe409e",
   "lastOpenFiles": [
-    "2. The Application Layer/Web e HTTP pt.2.md",
-    "Immagini/Pasted image 20250508012528.png",
-    "2. The Application Layer/Web e HTTP pt.1.md",
-    "3. The Transport Layer/QUIC (Quick UDP Internet Connections).md",
     "3. The Transport Layer/UDP (User Datagram Protocol).md",
     "3. The Transport Layer/Principi del trasferimento affidabile dei dati.md",
     "3. The Transport Layer/TCP (Transport Control Protocol).md",
     "3. The Transport Layer/Controllo della Congestione.md",
+    "3. The Transport Layer/QUIC (Quick UDP Internet Connections).md",
+    "2. The Application Layer/Web e HTTP pt.2.md",
+    "Immagini/Pasted image 20250508012528.png",
+    "2. The Application Layer/Web e HTTP pt.1.md",
     "Immagini/Pasted image 20250507233734.png",
     "Immagini/Pasted image 20250507233656.png",
     "Immagini/Pasted image 20250507233248.png",

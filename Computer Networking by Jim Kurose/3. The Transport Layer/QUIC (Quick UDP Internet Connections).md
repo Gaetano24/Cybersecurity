@@ -66,7 +66,7 @@ QUIC nasce per superare alcune limitazioni strutturali di TCP, in particolare:
 
 ---
 
-### **Vantaggi di QUIC**
+## **Vantaggi di QUIC**
 
 | Aspetto          | Vantaggio                                                   |
 | ---------------- | ----------------------------------------------------------- |
@@ -78,7 +78,7 @@ QUIC nasce per superare alcune limitazioni strutturali di TCP, in particolare:
 
 ---
 
-### **QUIC in pratica: HTTP/3**
+## **QUIC in pratica: HTTP/3**
 
 QUIC è il protocollo di trasporto su cui si basa **HTTP/3**, la nuova versione del protocollo HTTP:
 
