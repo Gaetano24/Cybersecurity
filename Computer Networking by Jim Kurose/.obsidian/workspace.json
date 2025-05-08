@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6376a895ce1517",
+        "id": "e0e3fe17c72d1b49",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e2c86a1cbe409e",
+            "id": "5b5d4a5708a956d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,13 +164,16 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "d8e2c86a1cbe409e",
+  "active": "5b5d4a5708a956d5",
   "lastOpenFiles": [
+    "3. The Transport Layer/Approfondimento QUIC by Chris Greer.md",
+    "Immagini/Pasted image 20250508133442.png",
+    "Pasted image 20250508132923.png",
+    "3. The Transport Layer/QUIC.md",
     "3. The Transport Layer/UDP (User Datagram Protocol).md",
     "3. The Transport Layer/Principi del trasferimento affidabile dei dati.md",
     "3. The Transport Layer/TCP (Transport Control Protocol).md",
     "3. The Transport Layer/Controllo della Congestione.md",
-    "3. The Transport Layer/QUIC (Quick UDP Internet Connections).md",
     "2. The Application Layer/Web e HTTP pt.2.md",
     "Immagini/Pasted image 20250508012528.png",
     "2. The Application Layer/Web e HTTP pt.1.md",
@@ -181,8 +184,6 @@
     "Immagini/Pasted image 20250507222757.png",
     "Immagini/Pasted image 20250507222145.png",
     "Immagini/Pasted image 20250507222111.png",
-    "Immagini/Pasted image 20250507220802.png",
-    "Immagini/Pasted image 20250507220624.png",
     "3. The Transport Layer/Multiplexing e Demultiplexing.md",
     "3. The Transport Layer/Introduzione al Livello di Trasporto.md",
     "ciao.md",
@@ -202,7 +203,6 @@
     "1. Computer Networks and the Internet/Performance di rete.md",
     "1. Computer Networks and the Internet/Il core della rete.md",
     "1. Computer Networks and the Internet/Ai confini della rete.md",
-    "1. Computer Networks and the Internet/La rete Internet.md",
     "Immagini",
     "1. Computer Networks and the Internet"
   ]
